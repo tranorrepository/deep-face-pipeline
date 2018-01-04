@@ -18,8 +18,7 @@ deep learning papers for face recognition
       *   [MegaFace](#megaface)
       *   [ModelID](#modelid)
       *   [ByYear](#byyear)
-      
-   
+        
   *   [Loss_function](#loss_function)
   *   [Dataset](#dataset)
   *   [Video_Based_Method](#video_based_method)
