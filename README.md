@@ -17,6 +17,7 @@ deep learning papers for face recognition
       *   [CenterFace](#centerface)
       *   [MegaFace](#megaface)
       *   [ModelID](#modelid)
+      *   [ByYear](#byyear)
    
   *   [Loss_function](#loss_function)
   *   [Dataset](#dataset)
@@ -253,6 +254,70 @@ deep learning papers for face recognition
 
 - [A Practical Transfer Learning Algorithm for Face Verification](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Cao_A_Practical_Transfer_2013_ICCV_paper.pdf) [Xudong Cao et al., 2013]
 
+## ByYear
+- 2014----DeepFace_Closing the Gap to Human-Level Performance in Face Verification
+
+2014----DeepID----Deep LearningFace Representation from Predicting 10,000 Classes
+
+2014----DeepID2+----Deeply learnedface representations are sparse, selective, and robust
+
+2014----DeepID2----Deep Learning Face Representation by Joint Identification-Verification
+
+2014----Deeply learned face representations are sparse, selective, and robust
+
+2014----WebFace Series----Learning Face Representation from Scratch
+
+2015----baidu----Targeting Ultimate Accuracy_Face Recognition via Deep Embedding
+
+2015----Deep face Series----Web-Scale Training for Face Identification
+
+2015----Deepid3_Face recognition with very deep neural networks
+
+2015----EmotioNet_ An accurate, real-time algorithm for the automatic annotation of a million facial expressions in the wild
+
+2015----Face++----Naive-Deep Face Recognition_Touching the Limit of LFW Benchmark or Not
+
+2015----FaceNet----FaceNet_A Unified Embedding for Face Recognition and Clustering--zhihu
+
+2015----MegaFace_A Million Faces for Recognition at Scale
+
+2015----Mnemonic Descent Method_ A recurrent process applied for end-to-end face alignment
+
+2015----Multi-view Face Detection Using Deep Convolutional Neural Networks
+
+2015----Rendering of Eyes for Eye-Shape Registration and Gaze Estimation
+
+2015----VGGFace----Deep Face Recognition
+
+2015----WebFace Series----A Lightened CNN for Deep Face Representation
+
+2015----WIDER FACE_ A Face Detection Benchmark
+
+2016---- Face Attribute Prediction Using Off-the-Shelf CNN Features
+
+2016----3DFAW Win 1st---- Two-stage Convolutional Part Heatmap Regression for the 1st 3D Face Alignment in the Wild (3DFAW) Challenge
+
+2016----A Discriminative Feature Learning Approach for Deep Face Recognition
+
+2016----HyperFace_A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition
+
+2016----MTCNN----Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
+
+2016----OpenFace_an open source facial behavior analysis toolkit
+
+2017----Face Alignment Across Large Poses_ A 3D Solution
+
+2017----Face Attention Network_An Effective Face Detector for the Occluded Faces
+
+2017----Face2Face_Real-time Face Capture and Reenactment of RGB Videos
+
+2017----Finding Tiny Face
+
+2017----SphereFace_Deep Hypersphere Embedding for Face Recognition
+
+2017----WebFace Series----A Light CNN for Deep Face Representation with Noisy Labels
+
+2017----NormFace_L2 Hypersphere Embedding for Face Verification
 # Loss_function
 - [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf) [Weihua Chen et al., 2017]
 
