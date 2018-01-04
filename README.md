@@ -384,6 +384,7 @@ deep learning papers for face recognition
 - [CP-mtML: Coupled Projection multi-task Metric Learning for Large Scale Face Retrieval](http://arxiv.org/pdf/1604.02975v1.pdf) CVPR 2016
 
 ## Face_alignment
+- ["Supervised descent method and its applications to face alignment."] CVPR 2013 (Not CNN DeepID 2, 2+, 3)
 - [Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf) CVPR 2016
 - [Large-pose Face Alignment via CNN-based Dense 3D Model Fitting](http://cvlab.cse.msu.edu/pdfs/Jourabloo_Liu_CVPR2016.pdf) CVPR 2016
 
