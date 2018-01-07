@@ -24,7 +24,7 @@ deep learning papers for face recognition
   *   [Video_Based_Method](#video_based_method)
   *   [Process](#process)
       *   [Face_alignment](#face_alignment)
-      *   [Face_frontalization](#face_frontalizaiton)
+      *   [Face_frontalization](#face_frontalization)
       *   [Face_verfication](face_verfication)
   
   *   [Resources](#resources)
