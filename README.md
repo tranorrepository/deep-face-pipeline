@@ -24,6 +24,7 @@ deep learning papers for face recognition
   *   [Video_Based_Method](#video_based_method)
   *   [Process](#process)
       *   [Face_alignment](#face_alignment)
+      *   [Face frontalization](#face_frontalizaiton)
       *   [Face_verfication](face_verfication)
   
   *   [Resources](#resources)
@@ -388,6 +389,8 @@ deep learning papers for face recognition
 CVPR 2013 (Not CNN DeepID 2, 2+, 3)
 - [Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf) CVPR 2016
 - [Large-pose Face Alignment via CNN-based Dense 3D Model Fitting](http://cvlab.cse.msu.edu/pdfs/Jourabloo_Liu_CVPR2016.pdf) CVPR 2016
+
+## Face_frontalization
 - [Effective Face Frontalization in Unconstrained Images](https://www.openu.ac.il/home/hassner/projects/frontalize/)
 
 ## Face_verfication
