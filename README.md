@@ -236,9 +236,6 @@
 
 - [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/abs/1506.02626) [Song Han et al., 2016]
 
-## CenterFace
-- [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf) [Yandong Wen et al., 2016]
-
 ## MegaFace
 - [MegaFace: A Million Faces for Recognition at Scale](https://arxiv.org/abs/1505.02108) [D. Miller et al., 2016]
 
