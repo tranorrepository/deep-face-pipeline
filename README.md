@@ -155,7 +155,7 @@ deep learning papers for face recognition
 
 **Hybrid Deep Learning for Face Verification**
 
-- intro: TPAMI 2016. CNN+RBM
+- intro: ICCV 2013 TPAMI 2016. CNN+RBM
 - paper: [http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunWTpami16.pdf)
 
 **Towards End-to-End Face Recognition through Alignment Learning**
