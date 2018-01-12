@@ -79,6 +79,7 @@
 - project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
 - paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
 - github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
+- blog:https://www.jianshu.com/p/e02048ea204a
 
 
 ## FaceNet
