@@ -321,6 +321,7 @@
 - [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[ECCV 2016 center_loss]
     - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
     - github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
+- [Deep Face Recognition with Center Invariant Loss](https://dl.acm.org/citation.cfm?id=3126686.3126693)
 
 
 
