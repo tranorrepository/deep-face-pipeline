@@ -7,7 +7,7 @@ deep learning papers for face recognition
       *   [DeepFace](#deepface)
       *   [DeepID](#deepid)
       *   [FaceNet](#facenet)
-      *   [VIPFaceNet](#vipfacenet)
+      *   [VIPLFaceNet](#viplfacenet)
       *   [WebFace](#webface)
       *   [VGGFace](#vggface)
       *   [BaiduFace](#baiduface)
