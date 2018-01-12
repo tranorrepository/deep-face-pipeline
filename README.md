@@ -1,5 +1,6 @@
 # Face-Recognition-Papers
-deep learning papers for face recognition
+- deep learning papers for face recognition
+- welcome to point out mistakes and make contributions 
 
 # Content
   *   [Popular_Architecture](#popular_architecture)
