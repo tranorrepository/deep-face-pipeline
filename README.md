@@ -16,7 +16,7 @@
       *   [OpenFace](#openface)
       *   [Pruning_Network](#pruning_network)
       *   [MegaFace](#megaface)
-      *   [ModelID](#modelid)
+      *   [MobileID](#mobileid)
       *   [ByYear](#byyear)
         
   *   [Loss_function](#loss_function)
