@@ -16,7 +16,6 @@
       *   [OpenFace](#openface)
       *   [Pruning_Network](#pruning_network)
       *   [MegaFace](#megaface)
-      *   [MobileID](#mobileid)
       *   [ByYear](#byyear)
         
   *   [Loss_function](#loss_function)
@@ -71,6 +70,16 @@
 **DeepID2+视频**
 - video: [http://research.microsoft.com/apps/video/?id=260023](http://research.microsoft.com/apps/video/?id=260023)
 - mirror: [http://pan.baidu.com/s/1boufl3x](http://pan.baidu.com/s/1boufl3x)
+
+**MobileID: Face Model Compression by Distilling Knowledge from Neurons**(based on DeepID2)
+
+- intro: AAAI 2016 Oral. CUHK
+- intro: MobileID is an extremely fast face recognition system by distilling knowledge from DeepID2
+- purpose:The technology aims to migrate to mobile devices and embedded devices.
+- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
+- paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
+- github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
+
 
 ## FaceNet
 - They use a triplet loss with the goal of keeping the L2 intra-class distances low and inter-class distances high 
@@ -234,15 +243,7 @@
 
 - [The MegaFace Benchmark: 1 Million Faces for Recognition at Scale](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf) [Ira Kemelmacher-Shlizerman et al., 2016]
 
-## MobileID
 
-**MobileID: Face Model Compression by Distilling Knowledge from Neurons**
-
-- intro: AAAI 2016 Oral. CUHK
-- intro: MobileID is an extremely fast face recognition system by distilling knowledge from DeepID2
-- project page: [http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html](http://personal.ie.cuhk.edu.hk/~lz013/projects/MobileID.html)
-- paper: [http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf](http://personal.ie.cuhk.edu.hk/~pluo/pdf/aaai16-face-model-compression.pdf)
-- github: [https://github.com/liuziwei7/mobile-id](https://github.com/liuziwei7/mobile-id)
 
 ## Joint Bayesian
 - [Bayesian Face Revisited: A Joint Formulation](http://www.jiansun.org/papers/ECCV12_BayesianFace.pdf) [Dong Chen et al., 2012]
