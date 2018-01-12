@@ -318,11 +318,9 @@ deep learning papers for face recognition
 
 - [Range Loss for Deep Face Recognition with Long-tail](https://arxiv.org/abs/1611.08976) [Xiao Zhang et al., 2016]
 - [SphereFace: Deep Hypersphere Embedding for Face Recognition](https://arxiv.org/abs/1704.08063) [Weiyang Liu al., 2017](A softmax loss)
-- [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)
-- intro: ECCV 2016
-- intro: center loss
-- github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
-- github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
+- [A Discriminative Feature Learning Approach for Deep Face Recognition](http://ydwen.github.io/papers/WenECCV16.pdf)[ECCV 2016 center_loss]
+    - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
+    - github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
 
 
 
