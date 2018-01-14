@@ -322,6 +322,7 @@
     - github: [https://github.com/ydwen/caffe-face](https://github.com/ydwen/caffe-face)
     - github: [https://github.com/pangyupo/mxnet_center_loss](https://github.com/pangyupo/mxnet_center_loss)
 - [Deep Face Recognition with Center Invariant Loss](https://dl.acm.org/citation.cfm?id=3126686.3126693)
+- [Rethinking Feature Discrimination and Polymerization for Large-scale Recognition](https://arxiv.org/abs/1710.00870) [Yu Liu ∗ , Hongyang Li ∗ , Xiaogang Wang][coco-loss]
 
 
 
