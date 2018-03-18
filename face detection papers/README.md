@@ -22,5 +22,5 @@ wider-face
 
 ## 性能比较
 
-![深度学习人脸检测-FDDB](https://github.com/geyongtao/deep-face-pipeline/tree/master/face%20detection%20papers/pictures/peformance-FDDB.jpg)
+![深度学习人脸检测-FDDB](https://github.com/geyongtao/deep-face-pipeline/blob/master/face%20detection%20papers/pictures/performace-FDDB.jpg)
 
