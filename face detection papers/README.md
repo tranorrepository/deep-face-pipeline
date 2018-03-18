@@ -24,3 +24,7 @@ wider-face
 
 ![深度学习人脸检测-FDDB](https://github.com/geyongtao/deep-face-pipeline/blob/master/face%20detection%20papers/pictures/performace-FDDB.jpg)
 
+
+- 级联CNN系列，有CNN Cascade, FaceCraft, MTNN, ICC-CNN，这一系列是深度学习方法中速度最快的，CPU都在10 FPS以上，级联CNN系列优化后轻松可以在CPU上实时，全面优化后的fastMTCNN甚至可以在ARM上跑起来；
+- Faster R-CNN系列，性能可以做到极高，但速度都很慢，甚至不能在GPU上实时；
+- SSD/RPN系列：有SSH和SFD，都是目前FDDB和WIDER FACE上的最高水平，性能水平与Faster R-CNN系列不相上下，同时也可以保持GPU实时速度，SFD的简化版FaceBoxes甚至可以CPU上实时，极有潜力上ARM。
