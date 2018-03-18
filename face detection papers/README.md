@@ -20,6 +20,7 @@ wider-face
 有其他隔离数据集无限制训练再FDDB测试，和FDDB十折交叉验证两种，鉴于FDDB图像数量较少，近几年论文提交结果也都是无限制训练再FDDB测试方式，所以，如果要和published methods提交结果比较，请照做。山世光老师也说十折交叉验证通常会高1~3%。
 - 结果有离散分数discROC和连续分数contROC两种，discROC仅关心IoU是不是大于0.5，contROC是IoU越大越好。鉴于大家都采用无限制训练加FDDB测试的方式，detector会继承训练数据集的标注风格，继而影响contROC，所以discROC比较重要，contROC看看就行了，不用太在意。
 
+## 性能比较
 
 ![深度学习人脸检测-FDDB](https://github.com/geyongtao/deep-face-pipeline/tree/master/face%20detection%20papers/pictures/深度学习人脸检测-FDDB.jpg)
 
