@@ -19,3 +19,6 @@ wider-face
 - 数据集完全公开，published methods通常都有论文，大部分都开源代码且可以复现，可靠性高；unpublished methods没有论文没有代码，无法确认它们的训练集是否完全隔离，持怀疑态度最好，通常不做比较。（扔几张FDDB的图像到训练集，VJ也可以训练出很高的召回率。。需要考虑人品能不能抵挡住利益的诱惑）
 有其他隔离数据集无限制训练再FDDB测试，和FDDB十折交叉验证两种，鉴于FDDB图像数量较少，近几年论文提交结果也都是无限制训练再FDDB测试方式，所以，如果要和published methods提交结果比较，请照做。山世光老师也说十折交叉验证通常会高1~3%。
 - 结果有离散分数discROC和连续分数contROC两种，discROC仅关心IoU是不是大于0.5，contROC是IoU越大越好。鉴于大家都采用无限制训练加FDDB测试的方式，detector会继承训练数据集的标注风格，继而影响contROC，所以discROC比较重要，contROC看看就行了，不用太在意。
+
+
+![这里写图片描述](https://github.com/geyongtao/deep-face-pipeline/edit/master/face%20detection%20papers/pictures/深度学习人脸检测-FDDB.jpg)
