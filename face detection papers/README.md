@@ -21,4 +21,5 @@ wider-face
 - 结果有离散分数discROC和连续分数contROC两种，discROC仅关心IoU是不是大于0.5，contROC是IoU越大越好。鉴于大家都采用无限制训练加FDDB测试的方式，detector会继承训练数据集的标注风格，继而影响contROC，所以discROC比较重要，contROC看看就行了，不用太在意。
 
 
-![这里写图片描述](https://github.com/geyongtao/deep-face-pipeline/edit/master/face%20detection%20papers/pictures/深度学习人脸检测-FDDB.jpg)
+![这里写图片描述](https://github.com/geyongtao/deep-face-pipeline/tree/master/face%20detection%20papers/pictures/深度学习人脸检测-FDDB.jpg)
+
