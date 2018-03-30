@@ -53,10 +53,13 @@ Joint Training of Cascaded CNN for Face Detection, CVPR, 2016. <a href="http://w
 WIDER FACE: A Face Detection Benchmark, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
 
- <ul>
-<li>
- Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 2016.
-  </ul></li>
+<ul><li>
+Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 2016.
+</ul></li>
+  
+<ul><li>
+ Recurrent Scale Approximation for Object Detection in CNN, ICCV, 2017.
+ </ul></li>
 
 【Face Alignment】
 <ul>
