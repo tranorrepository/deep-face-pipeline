@@ -40,6 +40,11 @@ wider-face
 【Face Detection】
 <ul>
 <li>
+A Convolutional Neural Network Cascade for Face Detection, CVPR, 2015
+</ul></li>
+  
+<ul>
+<li>
 Joint Training of Cascaded CNN for Face Detection, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qin_Joint_Training_of_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
 
