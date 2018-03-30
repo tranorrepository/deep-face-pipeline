@@ -34,3 +34,38 @@ wider-face
 - 级联CNN系列，有CNN Cascade, FaceCraft, MTNN, ICC-CNN，这一系列是深度学习方法中速度最快的，CPU都在10 FPS以上，级联CNN系列优化后轻松可以在CPU上实时，全面优化后的fastMTCNN甚至可以在ARM上跑起来；
 - Faster R-CNN系列，性能可以做到极高，但速度都很慢，甚至不能在GPU上实时；
 - SSD/RPN系列：有SSH和SFD，都是目前FDDB和WIDER FACE上的最高水平，性能水平与Faster R-CNN系列不相上下，同时也可以保持GPU实时速度，SFD的简化版FaceBoxes甚至可以CPU上实时，极有潜力上ARM。
+
+
+
+【Face Detection】
+<ul>
+<li>
+Joint Training of Cascaded CNN for Face Detection, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qin_Joint_Training_of_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>
+WIDER FACE: A Face Detection Benchmark, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+【Face Alignment】
+<ul>
+<li>Face Alignment Across Large Poses: A 3D Solution, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Unconstrained Face Alignment via Cascaded Compositional Learning, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Occlusion-Free Face Alignment: Deep Regression Networks Coupled With De-Corrupt AutoEncoders, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Mnemonic Descent Method: A Recurrent Process Applied for End-To-End Face Alignment, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
