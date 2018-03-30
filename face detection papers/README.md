@@ -86,3 +86,7 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
 <li>Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
 
+<ul><li>
+A Deep Regression Architecture with Two-Stage Re-initialization for High Performance Facial Landmark Detection, CVPR, 2017.
+</ul></li>
+
