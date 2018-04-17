@@ -60,6 +60,10 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
 <ul><li>
  Recurrent Scale Approximation for Object Detection in CNN, ICCV, 2017.
  </ul></li>
+ 
+ <ul><li>
+ PyramidBox: A Context-assisted Single Shot Face Detector<a href="https://arxiv.org/abs/1803.07737?context=cs">
+ </ul></li>
 
 【Face Alignment】
 <ul>
