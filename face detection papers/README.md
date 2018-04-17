@@ -62,7 +62,7 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  </ul></li>
  
  <ul><li>
- PyramidBox: A Context-assisted Single Shot Face Detector[https://arxiv.org/abs/1803.07737?context=cs]
+ PyramidBox: A Context-assisted Single Shot Face Detector [https://arxiv.org/abs/1803.07737?context=cs]
  </ul></li>
 
 【Face Alignment】
