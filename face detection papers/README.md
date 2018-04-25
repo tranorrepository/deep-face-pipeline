@@ -62,6 +62,10 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  </ul></li>
  
  <ul><li>
+  finding tiny face, CVPR, 2017.homepage[https://www.cs.cmu.edu/~peiyunh/tiny/]
+  </ul></li>
+  
+ <ul><li>
  FaceBoxes: A CPU Real-time Face Detector with High Accuracy 自动化所
 </ul></li>
  
