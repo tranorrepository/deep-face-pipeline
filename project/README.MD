@@ -1,2 +1,3 @@
 - https://github.com/informramiz/Face-Detection-OpenCV
 - https://github.com/xiaomangui/LBP-DBN-face-recognition
+- https://github.com/RiweiChen/DeepFace
