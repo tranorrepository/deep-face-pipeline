@@ -3,3 +3,4 @@
 - https://github.com/RiweiChen/DeepFace
 - https://github.com/tntrung/sdm_face_alignment
 - https://github.com/kpzhang93/MTCNN_face_detection_alignment
+- https://github.com/patrikhuber/superviseddescent
