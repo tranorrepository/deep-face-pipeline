@@ -1,3 +1,16 @@
+- 主动形状模型(Acitve Shape Model,ASM)[Cootes, BMVC/1992]
+- 主动表现模型(Active Appearance Model, AAM)[Cootes, ECCV/1998]
+- 局部约束模型(Constrained Local Model, CLM)[Cristinacce, BMVC/2006]
+> Cristinacce D, Cootes T F. Feature Detection and Tracking with Constrained Local Models[C]// British Machine Vision Conference 2006, Edinburgh, Uk, September. DBLP, 2006:929-938.
+
+- 级联形状回归(Cascade Shape Regression, CSR) 2010-至今
+- Cascaded Pose Regression(CPR)[Dollar ,CVPR/2010
+- Supervised Descent Method(SDM) [Xiong, CVPR/2013]
+- Explict Shape Regression(ESR)[Cao, IJCV/2014]
+- Cascaded Deep Neural Networks[Zhang, ECCV/2014]
+
+
+
 - [Face Alignment Across Large Poses: A 3D Solution](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm)[CVPR2016]
 ```
 method：
