@@ -1,3 +1,5 @@
+## Face Aligment
+------------------------------
 - 主动形状模型(Acitve Shape Model,ASM)[Cootes, BMVC/1992]
 - 主动表现模型(Active Appearance Model, AAM)[Cootes, ECCV/1998]
 - 局部约束模型(Constrained Local Model, CLM)[Cristinacce, BMVC/2006]
@@ -22,3 +24,32 @@ method：
 - [Joint 3D Face Reconstruction and Dense Alignment with Position Map Regression Network](https://github.com/YadiraF/PRNet)
 
 - [How far are we from solving the 2D \& 3D Face Alignment problem](https://github.com/1adrianb/face-alignment)[ICCV 2017]
+
+
+<ul>
+<li>Deep Convolutional Network Cascade for Facial Point Detection, CVPR, 2013.
+</ul></li>
+       
+<ul>
+<li>Face Alignment Across Large Poses: A 3D Solution, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Unconstrained Face Alignment via Cascaded Compositional Learning, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Occlusion-Free Face Alignment: Deep Regression Networks Coupled With De-Corrupt AutoEncoders, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Mnemonic Descent Method: A Recurrent Process Applied for End-To-End Face Alignment, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul>
+<li>Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
+</ul></li>
+
+<ul><li>
+A Deep Regression Architecture with Two-Stage Re-initialization for High Performance Facial Landmark Detection, CVPR, 2017.
+</ul></li>
