@@ -1,3 +1,3 @@
-# Papers about face detection and face recognition using deep learning methods!
+# All about face
 ## 看脸orz
 
