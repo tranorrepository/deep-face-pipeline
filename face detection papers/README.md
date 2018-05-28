@@ -77,32 +77,5 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  PyramidBox: A Context-assisted Single Shot Face Detector [https://arxiv.org/abs/1803.07737?context=cs]
  </ul></li>
 
-【Face Alignment】
-<ul>
-<li>Deep Convolutional Network Cascade for Facial Point Detection, CVPR, 2013.
-</ul></li>
-       
-<ul>
-<li>Face Alignment Across Large Poses: A 3D Solution, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf">[Paper]</a></li>
-</ul></li>
 
-<ul>
-<li>Unconstrained Face Alignment via Cascaded Compositional Learning, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
-</ul></li>
-
-<ul>
-<li>Occlusion-Free Face Alignment: Deep Regression Networks Coupled With De-Corrupt AutoEncoders, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
-</ul></li>
-
-<ul>
-<li>Mnemonic Descent Method: A Recurrent Process Applied for End-To-End Face Alignment, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf">[Paper]</a></li>
-</ul></li>
-
-<ul>
-<li>Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf">[Paper]</a></li>
-</ul></li>
-
-<ul><li>
-A Deep Regression Architecture with Two-Stage Re-initialization for High Performance Facial Landmark Detection, CVPR, 2017.
-</ul></li>
 
