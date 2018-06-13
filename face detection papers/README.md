@@ -1,4 +1,4 @@
-- http://blog.csdn.net/zhangjunhit/article/details/78296135
+- [人脸检测识别文献阅读总结](http://blog.csdn.net/zhangjunhit/article/details/78296135)
 - [人脸检测综述](https://mp.weixin.qq.com/s?spm=a2c4e.11153940.blogcont591169.8.7b955beaoZ6r30&__biz=MzI1MjQ2OTQ3Ng==&mid=2247489529&idx=1&sn=112ef0c29991caa256c67cc23884ab4f&chksm=e9e21e72de9597641d4212af9f7bd70975e0572411eb4d5c068bafe43872b43f6b667904d708&scene=0#rd)
 # 人脸检测
 ## 定义
