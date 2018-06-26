@@ -367,15 +367,6 @@
 <b>Pubfig</b> | 200个人的58k+人脸图像 | 非限制场景下的人脸识别 | [链接](http://www.cs.columbia.edu/CAVE/databases/pubfig/)
 
 
-
-
-## 人脸检测
-数据库| 描述| 用途| 获取方法
---------------|-------------|------------|------------
-<b>FDDB</b> | 2845张图片中的5171张脸 | 标准人脸检测评测集 | [链接](http://vis-www.cs.umass.edu/fddb/)
-<b>IJB-A</b> | |人脸识别，人脸检测 |[链接](http://www.nist.gov/itl/iad/ig/ijba_request.cfm)
-<b>Caltech10k Web Faces</b> |10k+人脸，提供双眼和嘴巴的坐标位置 | 人脸点检测| [链接](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Description)
-
 ## 人脸表情
 数据库| 描述| 用途| 获取方法
 --------------|-------------|------------|------------
