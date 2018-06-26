@@ -311,7 +311,8 @@
 
 - 2017----WebFace Series----A Light CNN for Deep Face Representation with Noisy Labels
 
-- 2017----NormFace_L2 Hypersphere Embedding for Face Verification
+- 2017----NormFace_L2 Hypersphere Embedding for Face VerificationExploring Disentangled Feature Representation Beyond Face Identification
+- 2018-----CVPR_Exploring Disentangled Feature Representation Beyond Face Identification
 
 # Loss_function
 - [Beyond triplet loss: a deep quadruplet network for person re-identification](https://arxiv.org/pdf/1704.01719.pdf) [Weihua Chen et al., 2017]
