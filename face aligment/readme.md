@@ -53,3 +53,10 @@ method：
 <ul><li>
 A Deep Regression Architecture with Two-Stage Re-initialization for High Performance Facial Landmark Detection, CVPR, 2017.
 </ul></li>
+
+<ul><li>
+Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors, CVPR, 2018.
+       [code](https://github.com/facebookresearch/supervision-by-registration)
+</ul></li>
+
+
