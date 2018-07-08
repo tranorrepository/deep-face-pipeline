@@ -89,7 +89,7 @@ CVPR2018_Finding Tiny Faces in the Wild with Generative Adversarial Network <a h
 
 
 <ul><li>
-CVPR2018_Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy <a href="https://arxiv.org/abs/1804.05197">[arxiv]
+CVPR2018_Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
 </ul></li>
 
 
