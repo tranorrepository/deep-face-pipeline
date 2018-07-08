@@ -101,4 +101,27 @@ Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="http
 --------------|-------------|------------|------------
 <b>FDDB</b> | 2845张图片中的5171张脸 | 标准人脸检测评测集 | [链接](http://vis-www.cs.umass.edu/fddb/)
 <b>IJB-A</b> | |人脸识别，人脸检测 |[链接](http://www.nist.gov/itl/iad/ig/ijba_request.cfm)
-<b>Caltech10k Web Faces</b> |10k+人脸，提供双眼和嘴巴的坐标位置 | 人脸点检测| [链接](http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Description)
+<b>Caltech10k Web Faces</b> |10k+人脸，提供双眼和嘴巴的坐标位置 | 人脸点检测| [链接]
+(http://www.vision.caltech.edu/Image_Datasets/Caltech_10K_WebFaces/#Description)
+
+
+MALF
+MALF 数据集全称 Multi-Attribute Labelled Faces ，是一个大型数据库，被设计用于野外细粒度人脸检测评估。网站提供了：
+
+数据库的描述、标注和评估规则
+如何下载数据库进行评估
+如何向该网站提交你的检测结果，和他人进行对比
+所有算法的性能对比
+数据库包含 5,250 张图片和 11,931 张标注的人脸，图片都来自于互联网。
+
+FDDB
+FDDB 数据集全称 Face Detection Data Set and Benchmark ，是一个用于研究无约束条件下人脸检测问题的数据集。数据库包含 2，845 张图片和 5，171 张标注的人脸，图片都来自于 Faces in the Wild 数据集。
+
+AFW
+AFW 数据集全称 Annotated Faces in the Wild ，AFW数据集是使用Flickr（雅虎旗下图片分享网站）图像建立的人脸图像库，包含205个图像，其中有473个标记的人脸。对于每一个人脸都包含一个长方形边界框，6个地标和相关的姿势角度。数据库虽然不大，额外的好处是作者给出了其2012 CVPR的论文和程序以及训练好的模型。
+
+IJBA-A
+IJBA-A 数据集全称IARPA Janus Benchmark A，是由 IARPA (the Intelligence Advanced Research Projects Activity)公开的数据集，包含24327个图像和49759个人脸，可以用于人脸的检测和识别。数据集需要进行申请，经过NIST(美国国家标准技术研究所)允许同意后，才能获取到。
+
+WIDER FACE
+WIDER FACE 数据集是一个人脸检测基准数据库，其中的图片是从已经公布的WIDER数据集上挑选出来的。它包含32203个图像和393703个人脸图像，在尺度，姿势，闭塞，表达等方面表现出了大的变化。WIDER FACE 数据集基于61个事件类型进行组织的。对于每一个事件类型，随机选取40%的数据作为训练集、10%的数据集作为验证集、50%的数据作为测试集。同时，WIDER FACE 数据集采用和 PASCAL VOC数据集相同的评估度量策略。 和 MALF、Caltech 数据集一样, 并不公开测试集的 ground truth (考试的时候，当然不公布正确答案啦)。用户被要求提交最终的预测文件，从而通过网站进行评估，给出结果。 
