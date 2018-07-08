@@ -94,13 +94,10 @@ CMU_Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="
 </ul></li>
 
 ## R-CNN based
-<ul><li>
-Learned-Miller. Face detection with the faster r-cnn, FG, 2017.</a></li>
-<ul><li>
-    
-<ul><li>
-Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection. Deep Learning for Biometrics, 2017.</a></li>
-<ul><li>    
+
+- Learned-Miller. Face detection with the faster r-cnn, FG, 2017.
+- Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection. Deep Learning for Biometrics, 2017.
+   
 
 
 ## 人脸检测数据集
