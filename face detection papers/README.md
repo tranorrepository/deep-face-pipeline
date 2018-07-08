@@ -76,7 +76,7 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  </ul></li>
   
  <ul><li>
- PyramidBox: A Context-assisted Single Shot Face Detector <a href="https://arxiv.org/abs/1803.07737?context=cs">[Paper]</a></li>
+ 百度_PyramidBox: A Context-assisted Single Shot Face Detector <a href="https://arxiv.org/abs/1803.07737?context=cs">[arxiv]</a></li>
  </ul></li>
  
  
@@ -100,7 +100,7 @@ Learned-Miller. Face detection with the faster r-cnn, FG, 2017.</a></li>
     
 <ul><li>
 Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection. Deep Learning for Biometrics, 2017.</a></li>
-  <ul><li>    
+<ul><li>    
 
 
 ## 人脸检测数据集
