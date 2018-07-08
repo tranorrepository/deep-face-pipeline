@@ -79,17 +79,18 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  PyramidBox: A Context-assisted Single Shot Face Detector <a href="https://arxiv.org/abs/1803.07737?context=cs">[Paper]
  </ul></li>
  
+ 
  <ul><li>
-CVPR2018_Beyond Trade-off：Accelerate FCN-based Face Detection with Higher Accuracy<a href="https://arxiv.org/abs/1804.05197">[Homepage]
-   </ul></li>
+Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy, CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
+</ul></li>
+  
 
 <ul><li>
-CVPR2018_Finding Tiny Faces in the Wild with Generative Adversarial Network <a href="https://ivul.kaust.edu.sa/Pages/pub-tiny-faces.aspx">[Homepage]
+Finding Tiny Faces in the Wild with Generative Adversarial Network, CVPR, 2018. <a href="https://ivul.kaust.edu.sa/Pages/pub-tiny-faces.aspx">[Homepage]
 </ul></li>
 
-
 <ul><li>
-Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy,CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
+Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="https://arxiv.org/abs/1802.09058">[arxiv]
 </ul></li>
 
 
