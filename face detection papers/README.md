@@ -64,11 +64,11 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  </ul></li>
  
  <ul><li>
-  finding tiny face, CVPR, 2017. <a href="https://www.cs.cmu.edu/~peiyunh/tiny/">[Homepage]
+  finding tiny face, CVPR, 2017. <a href="https://www.cs.cmu.edu/~peiyunh/tiny/">[Homepage]</a></li>
   </ul></li>
   
  <ul><li>
- 自动化所_FaceBoxes: A CPU Real-time Face Detector with High Accuracy <a href="https://github.com/zeusees/FaceBoxes">[reimplenment]
+ 自动化所_FaceBoxes: A CPU Real-time Face Detector with High Accuracy <a href="https://github.com/zeusees/FaceBoxes">[reimplenment]</a></li>
 </ul></li>
  
  <ul><li> 
@@ -76,30 +76,30 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  </ul></li>
   
  <ul><li>
- PyramidBox: A Context-assisted Single Shot Face Detector <a href="https://arxiv.org/abs/1803.07737?context=cs">[Paper]
+ PyramidBox: A Context-assisted Single Shot Face Detector <a href="https://arxiv.org/abs/1803.07737?context=cs">[Paper]</a></li>
  </ul></li>
  
  
  <ul><li>
-北航_Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy, CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
+北航_Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy, CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]</a></li>
 </ul></li>
   
 
 <ul><li>
-Finding Tiny Faces in the Wild with Generative Adversarial Network, CVPR, 2018. <a href="https://ivul.kaust.edu.sa/Pages/pub-tiny-faces.aspx">[Homepage]
+Finding Tiny Faces in the Wild with Generative Adversarial Network, CVPR, 2018. <a href="https://ivul.kaust.edu.sa/Pages/pub-tiny-faces.aspx">[Homepage]</a></li>
 </ul></li>
 
 <ul><li>
-CMU_Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="https://arxiv.org/abs/1802.09058">[arxiv]
+CMU_Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="https://arxiv.org/abs/1802.09058">[arxiv]</a></li>
 </ul></li>
 
-R-CNN based
+## R-CNN based
 <ul><li>
- Learned-Miller. Face detection with the faster r-cnn, FG, 2017.
-  <ul><li>
+Learned-Miller. Face detection with the faster r-cnn, FG, 2017.</a></li>
+<ul><li>
     
 <ul><li>
-Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection. Deep Learning for Biometrics, 2017.
+Cms-rcnn: contextual multi-scale region-based cnn for unconstrained face detection. Deep Learning for Biometrics, 2017.</a></li>
   <ul><li>    
 
 
