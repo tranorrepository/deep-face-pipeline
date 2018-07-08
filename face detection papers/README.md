@@ -68,11 +68,11 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
   </ul></li>
   
  <ul><li>
- FaceBoxes: A CPU Real-time Face Detector with High Accuracy 自动化所
+ 自动化所_FaceBoxes: A CPU Real-time Face Detector with High Accuracy <a href="https://github.com/zeusees/FaceBoxes">[reimplenment]
 </ul></li>
  
  <ul><li> 
- Face Detection Using Improved Faster RCNN 华为
+ 华为_Face Detection Using Improved Faster RCNN <a href="https://arxiv.org/abs/1802.02142">[arxiv]
  </ul></li>
   
  <ul><li>
@@ -81,7 +81,7 @@ Face Detection with End-to-End Integration of a ConvNet and a 3D Model, ECCV, 20
  
  
  <ul><li>
-Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy, CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
+北航_Beyond Trade-off: Accelerate FCN-based Face Detector with Higher Accuracy, CVPR, 2018. <a href="https://arxiv.org/abs/1804.05197">[arxiv]
 </ul></li>
   
 
@@ -90,7 +90,7 @@ Finding Tiny Faces in the Wild with Generative Adversarial Network, CVPR, 2018. 
 </ul></li>
 
 <ul><li>
-Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="https://arxiv.org/abs/1802.09058">[arxiv]
+CMU_Seeing Small Faces from Robust Anchor’s Perspective, CVPR, 2018. <a href="https://arxiv.org/abs/1802.09058">[arxiv]
 </ul></li>
 
 R-CNN based
