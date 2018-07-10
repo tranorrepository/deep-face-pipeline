@@ -58,5 +58,10 @@ A Deep Regression Architecture with Two-Stage Re-initialization for High Perform
 Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors, CVPR, 2018.
       <a href="https://github.com/facebookresearch/supervision-by-registration">[code]
 </ul></li>
+       
+ <ul><li>
+Fengzhenhua_Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors, CVPR, 2018.
+      <a href="https://github.com/FengZhenhua/Wing-Loss">[code]
+</ul></li>
 
 
