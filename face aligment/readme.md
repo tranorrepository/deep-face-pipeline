@@ -66,4 +66,5 @@ Fengzhenhua_Supervision-by-Registration: An Unsupervised Approach to Improve the
 
  <ul><li>
 Yuting Zhang_Unsupervised Discovery of Object Landmarks as Structural Representations, CVPR, 2018.
+       <a href="https://github.com/YutingZhang/lmdis-rep">[code]</a></li>
 </ul></li>
