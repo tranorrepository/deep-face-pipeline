@@ -64,4 +64,6 @@ Fengzhenhua_Supervision-by-Registration: An Unsupervised Approach to Improve the
       <a href="https://github.com/FengZhenhua/Wing-Loss">[code]</a></li>
 </ul></li>
 
-
+ <ul><li>
+Yuting Zhang_Unsupervised Discovery of Object Landmarks as Structural Representations, CVPR, 2018.
+</ul></li>
