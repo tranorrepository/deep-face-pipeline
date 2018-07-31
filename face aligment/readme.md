@@ -30,6 +30,10 @@ method：
 <li>Deep Convolutional Network Cascade for Facial Point Detection, CVPR, 2013.
 </ul></li>
        
+<ul>       
+ <li> Facial Landmark Detection by Deep Multi-task Learning, ECCV, 2014. <a href="https://github.com/zhzhanp/TCDCN-face-alignment">[Code]
+</ul></li>
+       
 <ul>
 <li>Face Alignment Across Large Poses: A 3D Solution, CVPR, 2016. <a href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf">[Paper]</a></li>
 </ul></li>
