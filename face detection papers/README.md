@@ -128,3 +128,7 @@ IJBA-A 数据集全称IARPA Janus Benchmark A，是由 IARPA (the Intelligence A
 
 ### WIDER FACE
 WIDER FACE 数据集是一个人脸检测基准数据库，其中的图片是从已经公布的WIDER数据集上挑选出来的。它包含**32203**个图像和**393703**个人脸图像，在尺度，姿势，闭塞，表达等方面表现出了大的变化。WIDER FACE 数据集基于**61个事件**类型进行组织的。对于每一个事件类型，随机选取40%的数据作为训练集、10%的数据集作为验证集、50%的数据作为测试集。同时，WIDER FACE 数据集采用和 PASCAL VOC数据集相同的评估度量策略。 和 MALF、Caltech 数据集一样, 并不公开测试集的 ground truth (考试的时候，当然不公布正确答案啦)。用户被要求提交最终的预测文件，从而通过网站进行评估，给出结果。 
+
+
+## 开源项目
+[yolo v3 face detection](https://www.jianshu.com/p/8214d947e031)
