@@ -1,3 +1,6 @@
+ECCV 2018 旷视 GridFace: Face Rectification via Learning Local Homography Transformations
+
+
 录像视频在线观看地址：
 
 http://www.iqiyi.com/u/2289191062
