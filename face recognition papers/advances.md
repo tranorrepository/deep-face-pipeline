@@ -68,4 +68,4 @@ low shot
 - 将年龄分量和身份分量分开,减小年龄差异
 
 - [ECCV 2018 OE-CNN| 腾讯AI Lab提出正交深度特征分解算法：在多个跨年龄人脸识别任务中创造新记录
-](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247486048&idx=1&sn=871758175b6ef5647096eb347f2e238c&chksm=ec1fe799db686e8f6307aed89b60cb805f948c0705aa4e58da781473d8f3a0e6a024baeeea7c&mpshare=1&scene=1&srcid=09105uYidwA0vBFgwlXBWAHe&pass_ticket=odZDKaedgQJJDZ9q9rWILfHi46nYELNofsoly%2BgtWF7i6gOHvbWunyhYq9vkl2SD#rd)
+](https://www.jiqizhixin.com/articles/tencent-ai-lab-eccv-2018-oecnn)
